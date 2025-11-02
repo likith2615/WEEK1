@@ -1,0 +1,10 @@
+{
+    "accuracy": 0.034375,
+    "precision": 0.4634486607142857,
+    "recall": 0.034375,
+    "f1_score": 0.06400277435265105,
+    "model_type": "Custom CNN",
+    "epochs": 5,
+    "image_size": 128,
+    "num_classes": 112
+}
